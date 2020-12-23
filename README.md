@@ -2,8 +2,11 @@
 
 health_common(pojo)->health_backend(controller)/health_mobile(controller)->health_interface(service)->health_service_provide(serviceimpl->dao->dao.xml(sql))
 
-health_backend Reportcontroller Apache POI JasperPDF 生成报表
-backen
+health_backend Reportcontroller
+Apache POI JasperPDF 生成报表
+
+
+controller
 
 ````java
 package com.labo.controller;
